@@ -81,10 +81,6 @@ The <a href = "https://www.kaggle.com/datasets/sobhanmoosavi/us-accidents">`data
 
 This analysis highlights key patterns in traffic accident data, such as high accident rates in densely populated areas like Miami and California, and a significant number of accidents occurring under fair weather conditions in the morning. These insights can inform road safety initiatives and policy decisions to reduce accidents and improve public safety.
 
-## Contact Information
-For any inquiries or feedback regarding this project, please contact:
 
-- <a href="https://www.linkedin.com/in/tufan-kundu-577945221/">Tufan Kundu (LinkedIn)</a>
-- Email: tufan.kundu11@gmail.com
 
 
